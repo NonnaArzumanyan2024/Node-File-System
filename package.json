@@ -1,0 +1,13 @@
+{
+  "name": "file_system",
+  "version": "1.0.0",
+  "description": "Node.js project to create and organize files using fs/promises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "file", "fs", "file-organizer", "file-create"],
+  "author": "Nonna Arzumanyan",
+  "license": "MIT",
+  "type": "module"
+}
